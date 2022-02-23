@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<map>
+    <cities>
+        <city id="5" name="rostov" latitude="47.2313" longitude="39.7233"/>
+        <city id="3" name="syzran" latitude="53.1585" longitude="48.4681"/>
+        <city id="1" name="samara" latitude="53.2001" longitude="50.15"/>
+    </cities>
+    <distances>
+        <distance fromCity="5" toCity="1" distance="993.28"/>
+    </distances>
+</map>
+
+
